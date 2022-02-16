@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Blausteinstaub
 - 👀 I’m interested in Minecraft Development!
-- 🌱 I’m currently learning Phyton and Java.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML/CSS and Java.
 - 📫 How to reach me: Discord: Blausteinstaub#1897
 
 
