@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Blausteinstaub
-- 👀 I’m interested in Minecraft Development!
-- 🌱 I’m currently learning HTML/CSS and Java.
-- 📫 How to reach me: You can't
+I like cockies!
